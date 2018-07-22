@@ -1,0 +1,23 @@
+Version control System (VCS)should be there
+Bi directional
+cmd desktop
+
+git clone (url of project) t save your project on desktop
+<git>
+cd(folder name)
+giit status
+
+**then git add .<enter>
+**git status
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+  **git commit -m "Error handling code"
+
+  git branch
+* master
+
+**git log(all info of commit inlcudes date n time)
+
+**git push origin master(internet connection  is must
+**git pull origin master
